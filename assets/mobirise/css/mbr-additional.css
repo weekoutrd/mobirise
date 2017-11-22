@@ -1739,13 +1739,22 @@ body {
   }
 }
 .cid-qzxMMIsi5N {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #55b4d4;
 }
 .cid-qzxMMIsi5N .mbr-text,
 .cid-qzxMMIsi5N blockquote {
   color: #767676;
+}
+.cid-qzxMMIsi5N SPAN {
+  color: #ffffff;
+}
+.cid-qzxMMIsi5N B {
+  color: #ffffff;
+}
+.cid-qzxMMIsi5N P {
+  text-align: left;
 }
 .cid-qzxMSLkUZ3 {
   padding-top: 60px;
